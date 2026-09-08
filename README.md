@@ -19,12 +19,12 @@ Full Stack Developer with 10+ years building and running ERP systems that compan
 
 ## Featured projects
 
-- **MERN Stack ERP Platform** — full business management app covering accounting, inventory, project management and HR — [frontendforWebApp](https://github.com/ANAYAK06/frontendforWebApp) · [CustomWorflowWebApp](https://github.com/ANAYAK06/CustomWorflowWebApp)
-- **React Frontend for a Legacy .NET MVC ERP** — replaced the UI layer of a production ERP without changing the backend — [myessel-react](https://github.com/ANAYAK06/myessel-react)
-- **Cross-Platform ERP Mobile App** — React Native companion app with real-time sync to the existing .NET backend — [esselAppMobile](https://github.com/ANAYAK06/esselAppMobile)
-- **NGO Double-Entry Accounting System** — pro bono bookkeeping system built for a rehabilitation centre, serverless on GitHub Pages — [mrcd-accounting](https://github.com/ANAYAK06/mrcd-accounting)
-- **Corporate Website** — designed, built and deployed on AWS — [EsselWebsite2023](https://github.com/ANAYAK06/EsselWebsite2023)
+- **MERN Stack ERP Platform** — full business management app covering accounting, inventory, project management and HR — [frontendforWebApp](https://github.com/sirluu/frontendforWebApp) · [CustomWorflowWebApp](https://github.com/sirluu/CustomWorflowWebApp)
+- **React Frontend for a Legacy .NET MVC ERP** — replaced the UI layer of a production ERP without changing the backend — [myessel-react](https://github.com/sirluu/myessel-react)
+- **Cross-Platform ERP Mobile App** — React Native companion app with real-time sync to the existing .NET backend — [esselAppMobile](https://github.com/sirluu/esselAppMobile)
+- **NGO Double-Entry Accounting System** — pro bono bookkeeping system built for a rehabilitation centre, serverless on GitHub Pages — [mrcd-accounting](https://github.com/sirluu/mrcd-accounting)
+- **Corporate Website** — designed, built and deployed on AWS — [EsselWebsite2023](https://github.com/sirluu/EsselWebsite2023)
 
 ## Reach me
 
-[LinkedIn](https://linkedin.com/in/anoop-narayanan-komalam) · luuquanghung85@hotmail.com
+[LinkedIn](https://linkedin.com/in/sirluu) · luuquanghung85@hotmail.com
